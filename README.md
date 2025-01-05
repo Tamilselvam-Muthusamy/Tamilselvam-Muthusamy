@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamilselvam-muthusamy&label=Profile%20views&color=0e75b6&style=flat" alt="tamilselvam-muthusamy" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamilselvam-muthusamy" alt="tamilselvam-muthusamy" /></a> </p>
+
 - 🔭 I’m currently working on **Junior Software Developer (Frontend) with 1.5 years of experience specializing in React.**
 
 - 🌱 I’m currently learning **React, TypeScript, Zustand, and Data Structures and Algorithms (DSA).**
