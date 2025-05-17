@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/tamilselvam"><img src="https://api.daily.dev/devcards/v2/pTqWCRXj8svjyOzxUrghi.png?type=default&r=1cg" width="356" alt="tamilselvam's Dev Card"/></a>
+<a href="https://app.daily.dev/tamilselvam"><img src="https://api.daily.dev/devcards/v2/pTqWCRXj8svjyOzxUrghi.png?type=wide&r=1cg" width="652" alt="tamilselvam's Dev Card"/></a>
 <h1 align="center" >Hi, I'm Tamilselvam <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" style="max-width: 100%;float:right;"></a></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
